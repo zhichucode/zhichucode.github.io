@@ -16,8 +16,8 @@ author: Zhichu
 navbar-links:
   About Me: "https://www.google.com"
   Resources:
-    - 知乎: "https://beautifuljekyll.com"
-    - 简书: "https://www.markdowntutorial.com/"
+    - Zhihu: "https://beautifuljekyll.com"
+    - Jianshu: "https://www.markdowntutorial.com/"
   Github: "https://www.github.com/zhichucode"
 
 # --- Logo --- #
