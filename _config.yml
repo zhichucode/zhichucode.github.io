@@ -9,10 +9,9 @@
 title: ZhichuCode
 
 # Your name to show in the footer
-author: Zhichu
+author: 致初
 
 # --- List of links in the navigation bar --- #
-
 navbar-links:
   About Me: "aboutme"
   # Resources:
@@ -79,7 +78,7 @@ navbar-links:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-# url-pretty: "https://zhichucode.github.io"
+url-pretty: "https://www.github.com/zhichucode"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 20
@@ -100,7 +99,7 @@ keywords: "blog,zhichu,zhichucode,code"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EDD7A5"
+# navbar-col: "#EDD7A5"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
@@ -116,7 +115,7 @@ footer-hover-col: "#0085A1"
 # instead of colour
 
 navbar-img: "/assets/img/background.png"
-#footer-img: "/assets/img/bgimage.png"
+footer-img: "/assets/img/background.png"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
