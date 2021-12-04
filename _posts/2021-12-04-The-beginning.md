@@ -2,7 +2,8 @@
 layout: post
 title: 早起——比别人多活半天的美好
 subtitle: 早起，改善一天的精神状态
-thumbnail-img: /assets/img/thumb.png
+cover-img: /assets/img/thumb.png
+share-img: /assets/img/thumb.png
 tags: [note]
 ---
 
