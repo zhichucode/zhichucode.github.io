@@ -4,16 +4,15 @@ title: ABOUT ME
 subtitle: What do I live for
 ---
 
-My name is Zhichucode, that means chasing the beginning. I have the following qualities:
+你好，欢迎来到我的主页。我的名字是致初，含义是致初心。
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-- I'm a code lover
+大一时，我便树立起三个梦想——旅游梦，写作梦，音乐梦。虽然不够具体，但基本代表我对理想生活的向往。
 
-What else do you need?
+互联网创造无限可能。我喜欢每天学习新知识，玩转新技能。设计一个网页，体验一款 Linux 工具，看一本新书，学习 PS, PR 等工具的使用方法，都能让我乐在其中。
 
-### My story
+喜欢学习新知识，学习中国哲学，读论语、佛经、传习录，体味古人一千多年的思想变换。学习西方哲学，心理学，往往浅尝辄止，还需进一步深耕。
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions. 
-**Thank you!**
+喜欢李笑来的那句格言：**生命不止，折腾不尽。**
+
+
 
