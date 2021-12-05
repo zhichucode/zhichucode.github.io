@@ -114,12 +114,12 @@ footer-hover-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-navbar-img: "/assets/img/path.png"
-footer-img: "/assets/img/path.png"
+# navbar-img: "/assets/img/path.png"
+# footer-img: "/assets/img/path.png"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
-# mobile-theme-col: "#FF914D"
+mobile-theme-col: "#FF914D"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 #site-css:
