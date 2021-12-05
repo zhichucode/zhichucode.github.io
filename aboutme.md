@@ -16,5 +16,8 @@ subtitle: What do I live for
 
 喜欢李笑来的那句格言：**生命不息，折腾不止。**
 
+----
 
+### 欢迎关注微信公众号：致初
 
+![QR Code](/home/zzh/Downloads/微信公众号二维码.jpg)
