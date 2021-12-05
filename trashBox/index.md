@@ -5,7 +5,7 @@ title: Trash Box
 
 There remains some useless articles
 
-[flask](flask), [test](test)
+[flake](flake), [test](test)
 
 I am always upgrade.
 
