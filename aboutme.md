@@ -19,7 +19,6 @@ subtitle: What do I live for
 ----
 
 #### 欢迎关注微信公众号：致初
-<br/>
 <div>
 <center><img src="/assets/img/QR_Code.jpg" width="200" height="200"/></center>
 </div>
