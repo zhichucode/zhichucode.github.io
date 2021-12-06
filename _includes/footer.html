@@ -2,12 +2,13 @@
 	<div class="container-md beautiful-jekyll-footer">
 		<div class="row">
 			<div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
-				{% include social-networks-links.html %} {% if page.footer-extra %}
-				<div class="footer-custom-content">
-					{% for file in page.footer-extra %} {% include {{ file }} %} {% endfor %}
-				</div>
-				{% endif %}
+				<!-- {% include social-networks-links.html %} {% if page.footer-extra %} -->
+				<!-- <div class="footer-custom-content"> -->
+				<!-- 	{% for file in page.footer-extra %} {% include {{ file }} %} {% endfor %} -->
+				<!-- </div> -->
+				<!-- {% endif %} -->
 
+				<!-- 名字和时间：致初 2021 -->
 				<p class="copyright text-muted">
 					{% if site.author %}
 					{{ site.author }}
@@ -35,8 +36,8 @@
 
 				{% unless site.remove-ads %}
 				<p class="theme-by text-muted">
-					Powered by 
-					<a href="https://beautifuljekyll.com">Beautiful Jekyll</a><br/>
+					Powered by
+					<a href="https://beautifuljekyll.com">Beautiful Jekyll</a><br /><br />
 					每一个不曾起舞的日子都是对生命的辜负
 				</p>
 				{% endunless %}
