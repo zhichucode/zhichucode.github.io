@@ -20,6 +20,6 @@ subtitle: What do I live for
 
 ### 欢迎关注微信公众号：致初
 
-![QR Code]('/assets/img/QR_Code.jpg')
 <div>
-<img src="/assets/img/QR_Code.jpg" width="100" height="100"/>
+<img src="/assets/img/QR_Code.jpg" width="200" height="200"/>
+</div>
