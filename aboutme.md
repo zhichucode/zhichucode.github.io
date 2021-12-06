@@ -20,4 +20,4 @@ subtitle: What do I live for
 
 ### 欢迎关注微信公众号：致初
 
-![QR Code](/assets/img/QR_Code.jpg =50x50)
+![QR Code](/assets/img/QR_Code.jpg){width=100px}
