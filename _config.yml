@@ -19,6 +19,7 @@ navbar-links:
       - Phantom: "phantom"
       - Forty: "forty"
       - Prologue: "prologue"
+      - Identity: "identity"
   # Resources:
   #   - Github: "https://www.github.com/zhichucode"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
