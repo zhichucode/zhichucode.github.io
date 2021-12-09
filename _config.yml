@@ -20,6 +20,7 @@ navbar-links:
       - Forty: "forty"
       - Prologue: "prologue"
       - Identity: "identity"
+      - spectral-jekyll-theme: "spectral-jekyll-theme"
   # Resources:
   #   - Github: "https://www.github.com/zhichucode"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
