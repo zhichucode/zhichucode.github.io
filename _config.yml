@@ -17,6 +17,8 @@ navbar-links:
   trashBox: "trashBox"
   Forty: "forty"
   Prologue: "prologue"
+  Website:
+      - Phantom: "phantom"
   # Resources:
   #   - Github: "https://www.github.com/zhichucode"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
