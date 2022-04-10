@@ -22,6 +22,7 @@ navbar-links:
       - Identity: "identity"
       - spectral: "spectral-jekyll-theme"
       - parallelism: "jekyll-theme-parallelism"
+      - serial: "serial"
   # Resources:
   #   - Github: "https://www.github.com/zhichucode"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
