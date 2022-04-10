@@ -23,6 +23,7 @@ navbar-links:
       - spectral: "spectral-jekyll-theme"
       - parallelism: "jekyll-theme-parallelism"
       - serial: "serial"
+      - hugo: "hugo-PaperMod"
   # Resources:
   #   - Github: "https://www.github.com/zhichucode"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
